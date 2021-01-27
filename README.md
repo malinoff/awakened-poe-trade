@@ -4,7 +4,6 @@
 [![](./showcase/Patreon-Donate-F96854-style-flat-square-logo-patreon.svg)](https://patreon.com/awakened_poe_trade)
 [![](./showcase/Discrod-Join-7289DA.svg)](https://discord.gg/hXgSDS6)
 
-
 ➡ [Download for Windows & Linux](https://snosme.github.io/awakened-poe-trade/download) ⬅
 
 ## Tool showcase

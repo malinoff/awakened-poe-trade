@@ -478,7 +478,8 @@ export async function requestTradeResultList (body: TradeRequest, leagueId: stri
     method: 'POST',
     headers: {
       'Accept': 'application/json',
-      'Content-Type': 'application/json'
+      'Content-Type': 'application/json',
+      'User-Agent': 'awakened-poe-trade-forked-by-malinfof'
     },
     body: JSON.stringify(body)
   })
